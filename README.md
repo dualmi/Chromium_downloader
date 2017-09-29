@@ -1,8 +1,8 @@
-= Get lastest Chromium
+# Get lastest Chromium
 
 This is a console PHP script which downloads lastest Chromium build for Windows.
 
-== Usage
+## Usage
 
 Just run 
 ```
